@@ -1,3 +1,4 @@
+//generic
 package Base64;
 
 class MyGreneri<T> {
