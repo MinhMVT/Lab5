@@ -1,5 +1,5 @@
 //Base64
-package Base64;
+package Slot9;
 
 import java.util.Base64;
 
