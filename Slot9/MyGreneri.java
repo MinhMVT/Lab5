@@ -1,5 +1,5 @@
 //generic
-package Base64;
+package Slot9;
 
 class MyGreneri<T> {
     T obj;
